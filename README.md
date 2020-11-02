@@ -1,13 +1,14 @@
 # Infomation-and-Content-Management-COMP1643 
 
-
 ## Group Work Artifects
 
 * Scrum Master
   - Product Backlog
   - Sprint Backlog & Planning
   - Burndown Chart
- 
+
+
+
 * Analyst
   - Assumption
   - User stories
@@ -15,15 +16,21 @@
   - Workflow
   - Initial Class Diagram
   - ERD
- 
+
+
+
 * Designer
   - Product sketches (Wireframe)
   - Site UI
   - Information Architecture
 
+
+
 * Developer
   - Product development stages
   - Presentation and product evaluation
+ 
+ 
  
 * Tester
   - Test Plan
